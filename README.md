@@ -1,2 +1,0 @@
-# Inventario
-proyecto de inventario
